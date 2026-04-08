@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-huggingface
+huggingface-hub
+langchain-mcp-adapters
+langgraph
+python-dotenv
+pydantic
+pydantic-core
